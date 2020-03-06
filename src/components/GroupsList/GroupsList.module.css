@@ -1,0 +1,42 @@
+.groups_wrap {
+    width: 30%;
+}
+
+.link_wrap {
+    margin-bottom: 20px;
+    background: #a8b3cc;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*.link_wrap:hover {*/
+    /*background: #c3cddb;*/
+/*}*/
+
+.link {
+    font-size: 18px;
+    font-family: Tahoma, serif;
+    color: #00005a;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #5452b5;
+}
+
+.btn_del {
+    /*width: 50px;*/
+    background: crimson;
+    color: #faf1f1;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 7px;
+    cursor: pointer;
+    outline: none;
+}
+.btn_del:hover {
+    background: #dc405c;
+}
